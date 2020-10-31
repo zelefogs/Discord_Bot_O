@@ -1,5 +1,4 @@
 git+https://github.com/zelefogs/Discord_Bot_O
-aiohttp==3.6.3
 async-timeout==3.0.1
 attrs==20.2.0
 beautifulsoup4==4.9.3
@@ -9,10 +8,8 @@ discord==1.0.1
 discord.py==1.5.1
 geojson==2.5.0
 idna==2.10
-multidict==4.7.6
 pyowm==3.1.1
 PySocks==1.7.1
 requests==2.24.0
 soupsieve==2.0.1
 urllib3==1.25.11
-yarl==1.5.1
