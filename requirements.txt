@@ -1,4 +1,4 @@
-git+https://github.com/zelefogs/Discord_Bot
+git+https://github.com/zelefogs/Discord_Bot_O
 aiohttp==3.6.3
 async-timeout==3.0.1
 attrs==20.2.0
