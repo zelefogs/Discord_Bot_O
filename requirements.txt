@@ -1,15 +1,10 @@
 git+https://github.com/zelefogs/Discord_Bot_O
-async-timeout==3.0.1
-attrs==20.2.0
-beautifulsoup4==4.9.3
-certifi==2020.6.20
-chardet==3.0.4
-discord==1.0.1
-discord.py==1.5.1
-geojson==2.5.0
-idna==2.10
+beautifulsoup4==4.9.3     # via bs4
+certifi==2020.6.20        # via requests
+chardet==3.0.4            # via requests
+geojson==2.5.0            # via pyowm
+idna==2.10                # via requests
 pyowm==3.1.1
-PySocks==1.7.1
 requests==2.24.0
-soupsieve==2.0.1
-urllib3==1.25.11
+urllib3==1.25.10          # via requests
+PySocks==1.7.1            # via socket
